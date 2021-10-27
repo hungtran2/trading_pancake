@@ -1,2 +1,2 @@
-# trading_pancake
+# trading_pancake (Investigating...)
 Trading on pancakeswap with stop limit, stop loss...
